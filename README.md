@@ -9,7 +9,7 @@ Q: ```quasar build``` on Win 10 - complains about locked file. Windows restart i
 A: There is probably other process blocking the ```dist/spa``` folder (e.g. Tortoise Git, Remote Desktop etc.). Install a [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) to discover the process which blocks the folder.
 
 ## UDM
-Q: QTab - tabs are nested 
+Q: **QTab** - tabs looks like they were nested
 
 A: Check the closing tags 
 
