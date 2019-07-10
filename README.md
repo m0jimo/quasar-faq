@@ -22,7 +22,11 @@ A: Check the closing tags
 
 REF: [QTab](https://quasar.dev/vue-components/tabs#QRouteTab-API)
 
-## Others
+## IE11
+Q: Can I use jsfiddle or codepan for IE11 issues?
 
+A: [2019-07-10] - unfortunatelly those services are not supporting IE11. I haven't found a way how to report visually IE11 issues.
+
+## Others
 
 [MD Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
