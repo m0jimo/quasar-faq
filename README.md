@@ -10,7 +10,9 @@ A: There is probably other process blocking the ```dist/spa``` folder (e.g. Tort
 
 ## Components
 Q: **QTable** - I'd like to get the current data table sort status
-A: Use custom sort function or undocumented property ```this.$refs.table.computedData.rows``` credit to (Discord answer - @Tobias Mesquita (PT-EN) - 11.04.2019)
+
+A: Use custom sort function or undocumented property ```this.$refs.YourTableName.computedData.rows``` credit to (Discord answer - @Tobias Mesquita (PT-EN) - 11.04.2019)
+
 REF: [JsFiddle example](this.$refs.table.computedData.rows), [QTable](https://quasar.dev/vue-components/table)
 
 ## UDM
