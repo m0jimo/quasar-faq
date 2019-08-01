@@ -139,3 +139,9 @@ A: Check out the article [Hack WebStorm to Introspect Quasar Framework Component
 ## Electron
 
 ---
+
+## General
+
+#### Q: I got in dev tools: "property or method is not defined on the instance but referenced during render"
+A: This means your template code referenced something that does not exist in your script code. Double-check your template code for a mispelling.
+
