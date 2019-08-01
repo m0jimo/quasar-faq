@@ -20,7 +20,11 @@ R: [Docs - Quasar - Awesome ever-growing community](https://quasar.dev/introduct
 ## CLI
 #### Q: ```quasar dev``` or ```quasar serve``` results in ```Unknown command```
 
-A: When developing on Windows there can problems with NPM used locally. Delete ```node_modules```, ```lock file``` and re-install ```yarn install --force``` with yarn. Or give a npm second chance ```npm install```. General rule: User NPM for global packages, Yarn for local packages.
+A: When developing on Windows there can problems with NPM used locally. 
+1) delete ```node_modules```, ```package-lock.json```
+2) re-install ```yarn install --force``` with yarn.
+
+General rule: User NPM for global packages, Yarn for local packages.
 
 R: *TODO - where is the information for new users that when developing under Windows is better to use Yarn (reasons)?*  [Docs - Upgrade guide](https://quasar.dev/start/upgrade-guide#Upgrading-from-0.x-to-v1)
 
