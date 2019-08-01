@@ -24,7 +24,7 @@ A: When developing on Windows there can problems with NPM used locally.
 1) delete ```node_modules```, ```package-lock.json```
 2) re-install ```yarn install --force``` with yarn.
 
-General rule: User NPM for global packages, Yarn for local packages.
+*General rule: use NPM for global packages, Yarn for local packages.*
 
 R: *TODO - where is the information for new users that when developing under Windows is better to use Yarn (reasons)?*  [Docs - Upgrade guide](https://quasar.dev/start/upgrade-guide#Upgrading-from-0.x-to-v1)
 
