@@ -31,7 +31,8 @@ A: When developing on Windows there can problems with NPM used locally.
 
 R: *TODO - where is the information for new users that when developing under Windows is better to use Yarn (reasons)?*  [Docs - Upgrade guide](https://quasar.dev/start/upgrade-guide#Upgrading-from-0.x-to-v1)
 
-Note: it is not working anymore (WebStorm 2019.2)
+Note: it is not working anymore (WebStorm 2019.2) - command is not recognized.
+
 ---
 
 #### Q: ```quasar build``` on Win 10 - complains about resource busy or locked. Windows restart is needed whenever I build the app.
@@ -131,8 +132,7 @@ URL: ```http://localhost:8080```
 #### Q: WebStorm - autocomplete doesn't work for Quasar components
 A: Check out the article [Hack WebStorm to Introspect Quasar Framework Components](https://medium.com/quasar-framework/how-to-hack-webstorm-to-understand-quasar-framework-components-9cb2c95f19f3) or go directly to [Plugin - Quasar Ide Helper](https://github.com/panstromek/quasar-ide-helper)
 
-Note: Webstorm 2019.2 has autocomplete implemented but get [more details](https://youtrack.jetbrains.com/issue/WEB-31682#focus=streamItem-27-3611045.0-0)    
-
+Note: Webstorm 2019.2 has autocomplete implemented but get [more details](https://youtrack.jetbrains.com/issue/WEB-31682#focus=streamItem-27-3611045.0-0).
 
 ---
 
