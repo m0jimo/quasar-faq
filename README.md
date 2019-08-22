@@ -133,6 +133,7 @@ A: Check out the article [Hack WebStorm to Introspect Quasar Framework Component
 
 Note: Webstorm 2019.2 has autocomplete implemented but get [more details](https://youtrack.jetbrains.com/issue/WEB-31682#focus=streamItem-27-3611045.0-0)    
 
+
 ---
 
 ## Cordova
